@@ -7,6 +7,12 @@ const itemsBool: boolean[] = new Array(5).fill(true);
 let store: StubStore<number>;
 beforeEach(() => (store = new StubStore<number>()));
 
+it("should get all of the items in the store", () => {
+	store.putMany(items);
+
+	expect(store.all()).toEqual(items);
+});
+
 it("should put an item into the store", () => {
 	expect(store.put(1)).toBeTrue();
 });

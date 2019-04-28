@@ -1,5 +1,10 @@
 export interface IValueStore<T> {
 	/**
+	 * Get all of the items in the store.
+	 */
+	all(): T[];
+
+	/**
 	 * Store an item in the store.
 	 */
 	put(value: T): boolean;

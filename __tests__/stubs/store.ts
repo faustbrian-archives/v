@@ -3,6 +3,10 @@ import { IValueStore } from "../../src/";
 export class StubStore<T> implements IValueStore<T> {
 	private readonly store: Set<T> = new Set<T>();
 
+	public all(): T[] {
+		return [...this.store.values()];
+	}
+
 	public put(value: T): boolean {
 		this.store.add(value);
 
