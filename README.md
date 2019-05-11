@@ -1,17 +1,17 @@
-# common-value-store
+# @veestore/veestore
 
 > A common interface for reusable Value Store implementations in TypeScript.
 
-[![Latest Version](https://badgen.now.sh/npm/v/@faustbrian/common-value-store)](https://www.npmjs.com/package/@faustbrian/common-value-store)
-[![Node Engine](https://badgen.now.sh/npm/node/@faustbrian/common-value-store)](https://www.npmjs.com/package/@faustbrian/common-value-store)
-[![Build Status](https://badgen.now.sh/circleci/github/faustbrian/common-value-store)](https://circleci.com/gh/faustbrian/common-value-store)
-[![Codecov](https://badgen.now.sh/codecov/c/github/faustbrian/common-value-store)](https://codecov.io/gh/faustbrian/common-value-store)
+[![Latest Version](https://badgen.now.sh/npm/v/@veestore/veestore)](https://www.npmjs.com/package/@veestore/veestore)
+[![Node Engine](https://badgen.now.sh/npm/node/@veestore/veestore)](https://www.npmjs.com/package/@veestore/veestore)
+[![Build Status](https://badgen.now.sh/circleci/github/veestore/veestore)](https://circleci.com/gh/veestore/veestore)
+[![Codecov](https://badgen.now.sh/codecov/c/github/veestore/veestore)](https://codecov.io/gh/veestore/veestore)
 [![License: MIT](https://badgen.now.sh/badge/license/MIT/green)](https://opensource.org/licenses/MIT)
 
 ## Installation
 
 ```bash
-yarn add @faustbrian/common-value-store
+yarn add @veestore/veestore
 ```
 
 ## Testing

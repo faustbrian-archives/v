@@ -1,14 +1,14 @@
 {
-	"name": "@faustbrian/common-value-store",
-	"version": "0.2.0",
+	"name": "@veestore/veestore",
+	"version": "0.1.0",
 	"description": "A common interface for reusable Value Store implementations in TypeScript.",
-	"homepage": "https://github.com/faustbrian/common-value-store",
+	"homepage": "https://github.com/veestore/veestore",
 	"bugs": {
-		"url": "https://github.com/faustbrian/common-value-store/issues"
+		"url": "https://github.com/veestore/veestore/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:faustbrian/common-value-store.git"
+		"url": "git@github.com:veestore/veestore.git"
 	},
 	"license": "MIT",
 	"author": "Brian Faust <hello@basecode.sh>",
