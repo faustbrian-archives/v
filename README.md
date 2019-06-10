@@ -6,7 +6,7 @@
 [![Node Engine](https://badgen.now.sh/npm/node/@veestore/veestore)](https://www.npmjs.com/package/@veestore/veestore)
 [![Build Status](https://badgen.now.sh/circleci/github/veestore/veestore)](https://circleci.com/gh/veestore/veestore)
 [![Codecov](https://badgen.now.sh/codecov/c/github/veestore/veestore)](https://codecov.io/gh/veestore/veestore)
-[![License: MPL-2.0](https://badgen.now.sh/badge/license/MPL-2.0/green)](https://mozilla.org/MPL/2.0/)
+[![License: MPL-2.0](https://badgen.now.sh/badge/license/MPL-2.0/green)](https://mozilla.org/MPL/2.0/) [![Greenkeeper badge](https://badges.greenkeeper.io/veestore/veestore.svg)](https://greenkeeper.io/)
 
 ## Installation
 
